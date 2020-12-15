@@ -1,2 +1,3 @@
 # Radiosonde-Mexico
-This software and the data corresponds to the radiosonde data in mexican meterological stations.
+The data corresponds to the radiosonde data in mexican meterological stations.
+The software was made to process this data.
