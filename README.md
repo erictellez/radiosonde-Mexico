@@ -11,5 +11,3 @@ The identifier in the second column represents: 254 begin of the measurement, 1 
 
 In the folder temperature there are the codes to obtain the time series of temperature.
 
-In the folder wind there are the  codes to obtain the cylindrical wind distribution of the radiosonde station.
-
