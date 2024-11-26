@@ -9,5 +9,7 @@ In folders data679 and data692 there is data from the radiosonde. This data has 
 
 The identifier in the second column represents: 254 begin of the measurement, 1 coordinates, 2 speed units, 3, 4 mandatory levels, 5 significant levels of temperature, 6 siginificant levels of pressure, 7 tropopause, 8 maximum speed, 9 surface level,
 
-In the folder temperature there are the codes to obtain the time series of temperature.
+In the temperature folder there are all the temperatures condensed in a xls file.
+
+In the code folder there are all the codes to process the data.
 
